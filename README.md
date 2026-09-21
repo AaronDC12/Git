@@ -25,3 +25,14 @@ Run the Python program with:
 
 ```bash
 python Test.py
+
+## Git Workflow
+
+The Git workflow practiced in this repository is:
+
+1. Edit files locally.
+2. Check changes with `git status`.
+3. Stage changes with `git add`.
+4. Commit changes with `git commit`.
+5. Push changes with `git push`.
+6. Verify the changes on GitHub.
